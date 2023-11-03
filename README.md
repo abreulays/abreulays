@@ -1,4 +1,4 @@
-### Olá! Eu sou a Lays Abreu. ✨<br/>
+### Olá! Eu sou Lays Abreu. ✨<br/>
 Programming student, focused on WEB development.
 
 [![Sociais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lays-abreu-a1749424a/)
