@@ -1,5 +1,5 @@
 ### Olá! Eu sou Lays Abreu. ✨<br/>
-Programming student, focused on WEB development.
+Estudante de programação, com foco em desenvolvimeno WEB.
 
 [![Sociais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lays-abreu-a1749424a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abreulayss_/)
