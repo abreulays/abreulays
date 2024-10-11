@@ -33,5 +33,4 @@ Estudante de programação, com foco em desenvolvimeno WEB.
 
 <br/>
 
-Passionate about technology and looking for innovations. I am currently a junior level full stack developer.
 
